@@ -13,7 +13,7 @@ plot.py        -- plots improvement over evolutionary time
 population.py  -- holds functions for AFPO
 rotor.py       -- generates blades for turbine
 simulator.py   -- holds functions for drawing the simulation in pygame
-turbine2.py    -- holds turbine and evaulation functions
+turbine2.py    -- holds turbine and evaluation functions
 
 best.p         -- holds best turbine, load using pickle (std lib)
 bestGen.txt    -- holds data: best per generation, per run
