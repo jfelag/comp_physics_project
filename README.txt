@@ -1,3 +1,10 @@
+Final project for PHYS 256: Computational Physics.
+
+This will evolve a vertical-axis wind turbine to be efficient in a particle-based simulation.
+
+Full write up in phys256-report.pdf
+
+
 MODULES USED:
 
 Matplotlib
